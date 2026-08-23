@@ -1,0 +1,13 @@
+{
+  "name": "build-a-data-sanitizer",
+  "version": "1.0.0",
+  "description": "A data sanitizer built with Express middleware",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "express": "5.2.1"
+  }
+}
